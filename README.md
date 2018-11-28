@@ -1,6 +1,6 @@
 # n26-txns
 # n26 coding challenge
-##Transactions statistics
+## Transactions statistics
 
 We would like to have a RESTful API for our statistics. The main use case for the API is to calculate realtime statistics for the last 60 seconds of transactions.
 
